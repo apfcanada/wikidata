@@ -1,6 +1,6 @@
 {
   "name": "@apfcanada/wikidata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tools for working with the wikidata API",
   "type": "module",
   "main": "index.js",
