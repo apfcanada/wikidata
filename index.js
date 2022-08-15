@@ -1,1 +1,1 @@
-export * from './query.js'
+export { wikidataQuery } from './query.js'
