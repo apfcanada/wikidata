@@ -1,0 +1,14 @@
+{
+  "name": "@apfcanada/wikidata",
+  "version": "1.0.0",
+  "description": "tools for working with the wikidata API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wikidata"
+  ],
+  "author": "Nate Wessel",
+  "license": "ISC"
+}
